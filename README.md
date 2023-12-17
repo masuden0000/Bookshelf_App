@@ -43,7 +43,7 @@ Berikut kriteria submission yang harus Anda penuhi.
 
 ## Demo
 
-https://masuden0000.github.io/Wicara2023/
+https://masuden0000.github.io/HR07_Website_Bookshelf-App/
 
 
 ## Run Locally
@@ -51,7 +51,7 @@ https://masuden0000.github.io/Wicara2023/
 Clone the project
 
 ```bash
-  git clone https://github.com/masuden0000/Wicara2023
+  [git clone https://github.com/masuden0000/Wicara2023](https://github.com/masuden0000/HR07_Website_Bookshelf-App.git)
 ```
 
 Go to the project directory
