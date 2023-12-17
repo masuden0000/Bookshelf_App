@@ -9,15 +9,14 @@ Dalam proyek yang saya terima, saya diberi tugas untuk membuat website dengan HT
 
 ## Introduction
 
-Selamat, akhirnya Anda telah sampai di penghujung pembelajaran. Anda telah mempelajari beberapa materi seperti
+Selamat! Akhirnya Anda telah sampai di penghujung pembelajaran. Anda telah mempelajari:
 
-* dasar HTML (dapat dipelajari mulai dari modul Pengenalan ke HTML),
-* penerapan elemen semantic (dapat dipelajari mulai dari modul Semantic HTML: Mengorganisasi Halaman Konten),
-* menerapkan styling menggunakan CSS (dapat dipelajari mulai dari modul Pengenalan ke Styling); dan
-* layouting menggunakan flexbox (dapat dipelajari mulai dari modul Layout Responsif dengan Flexbox).
-Anda juga sudah mengerjakan semua latihan yang diberikan pada kelas ini.
+* Dasar-dasar JavaScript mulai dari statement, expressions, pembuatan variabel, tipe data, operator, percabangan if dan switch, data structure dengan array dan object, hingga pembuatan function.
+* Mengetahui Browser Object Model (BOM), Document Object Model (DOM), dan Event di dalam website. Serta Anda mampu mengubah konten website melalui teknik manipulasi DOM dan memberikan Event.
+Mengenal localStorage dan sessionStorage sebagai Web Storage. Serta menggunakan keduanya.
+* Terakhir, Anda sudah mampu membuat website memiliki fungsionalitas mengelola To-Do menggunakan JavaScript dengan memanfaatkan teknik manipulasi DOM, Event, dan Web Storage melalui latihan yang diberikan pada kelas ini.
 
-Untuk bisa lulus dan mendapatkan sertifikat dari akademi ini, Anda harus mengerjakan tugas Halaman Website sesuai kriteria lengkap di bawah. Tim reviewer akan memeriksa pekerjaan Anda dan memberikan review pada proyek yang Anda buat.
+Untuk bisa lulus dan mendapatkan sertifikat dari akademi ini, Anda harus mengerjakan tugas yakni membuat proyek Bookshelf Apps sesuai kriteria lengkap di bawah ini. Tim Reviewer akan memeriksa pekerjaan Anda dan memberikan reviu pada proyek yang Anda buat.
 
 
 
