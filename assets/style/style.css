@@ -1,3 +1,4 @@
+
 .line-1 {
     height: 0.2px;
     background: black;
@@ -32,6 +33,7 @@
     opacity: 1;
     transition: .5s ease-in-out;
 }
+
 .form-control::placeholder {
     /* Chrome, Firefox, Opera, Safari 10.1+ */
     opacity: .3;
